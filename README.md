@@ -2,6 +2,8 @@
 
 A simple REST API for a To-Do List application, created with ASP.NET Core, Entity Framework Core.
 
+Example of using API in application [here](https://github.com/Spunyyy/To-DoListConsoleApp)
+
 ## Installation
 
 **This API requires a PostgreSQL database.**
